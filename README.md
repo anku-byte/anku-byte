@@ -39,7 +39,7 @@ Currently working with **React** for frontend development and learning **Machine
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/ankita-naik  
+- 💼 LinkedIn:https://www.linkedin.com/in/ankita-naik-90541a330/ 
 - 📧 Email: anku.patel2204@gmail.com
 
 ---
